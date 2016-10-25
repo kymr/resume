@@ -1,5 +1,3 @@
-# resume
-
 ## Yongmaroo Kim
 ##### https://github.com/kymr
 ##### Email : kymr@naver.com
