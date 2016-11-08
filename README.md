@@ -7,7 +7,7 @@
 
 ### Education
 #### Soongsil University (Seoul, Korea)
- * bachelor's degree in Computer Science; GPA : 4.00 (_Jan. 2002 - Jan. 2009_)
+ * bachelor's degree in Computer Science; GPA : 4.06 / 4.5 (_Jan. 2002 - Jan. 2009_)
   
 ### Experience
 ##### Naver (Gyunggido, Korea)
